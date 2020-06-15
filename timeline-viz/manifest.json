@@ -1,0 +1,21 @@
+{
+  "name": "Nun Ya",
+  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/bar_chart.png",
+  "organization": "Eric Reesor",
+  "supportUrl": "https://url",
+  "packageUrl": "https://url",
+  "privacyPolicyUrl": "https://url",
+  "description": "Community Visualization Codelab",
+  "devMode": true,
+  "components": [{
+    "id": "timelineChart",
+    "name": "Timeline Chart",
+    "iconUrl": "https://i.pinimg.com/originals/bc/00/65/bc006586dcfb44734d65d7b98781816a.jpg",
+    "description": "Timeline Chart",
+    "resource": {
+      "js": "gs://venhackathon2020_ereesor/timeline/timeline.js",
+      "config": "gs://venhackathon2020_ereesor/timeline/timeline.json",
+      "css": "gs://venhackathon2020_ereesor/timeline/timeline.css"
+    }
+  }]
+}
